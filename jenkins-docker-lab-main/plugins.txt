@@ -1,6 +1,0 @@
-git
-workflow-aggregator
-credentials-binding
-configuration-as-code
-pipeline-stage-view
-timestamper
